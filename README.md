@@ -168,3 +168,9 @@ streamlit run evals/app.py
 ---
 
 *Built for High-Scale Enterprise Document Intelligence.*
+---
+## Refereces
+https://docs.google.com/document/d/1wMPQL2NJTzT70GLBVYr3hKrObCmYrwhwvTgoEb0PLWk/edit?tab=t.0
+
+VIDEO URL: https://youtu.be/bjkjaqUZl4E
+
